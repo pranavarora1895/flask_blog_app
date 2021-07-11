@@ -1,0 +1,19 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/codetalks",
+        "prod_uri": "mysql://root:@localhost/codetalks",
+        "fb_url": "https://facebook.com/cosmicpranav007",
+        "twitter_url": "https://twitter.com/PranavArora95",
+        "github_url": "https://github.com/pranavarora1895",
+        "blog_name": "CodeTalks",
+        "blog_tagline": "Let's Talk about Code",
+        "gmail_user": "your_email@gmail.com",
+        "gmail_password": "your_email_password",
+        "about_text": "Pranav is a lead solution architect with experience in current technologies and frameworks. He is an expert in full stack web development, cloud migration, AI/ML, digital automation and CRM. He holds an Engineering Degree in Electronics and Communication from SRM University, Chennai. He's a CISCO Certified Network Engineer and has worked as a Network Engineer with CISCO, Bangalore. He's passionate about creating innovative technology solutions, resolving issues and eager to learn newer technologies. As a member on technology forums he regularly contributes/shares his solutions and researches. Loves to spend his spare time caring for stray animals and training the underprivileged.",
+        "no_of_posts": 3,
+        "admin_user": "pranav",
+        "admin_password": "pranav",
+        "file_location": "C:\\Users\\major\\OneDrive\\Documents\\flask blog\\static\\img"
+    }
+}
