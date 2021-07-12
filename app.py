@@ -1,6 +1,6 @@
 import os
 import math
-from flask import Flask, render_template, request, session, redirect
+from flask import Flask, render_template, request, session, redirect, flash
 from flask_sqlalchemy import SQLAlchemy
 from flask_mail import Mail
 from datetime import date
@@ -58,6 +58,7 @@ class Posts(db.Model):
 
 @app.route('/')
 def home():
+    # flash("View blog posts here!!","success")
     posts = Posts.query.filter_by().all()
     last = math.ceil(len(posts)/int(params['no_of_posts']))
     # [0:params['no_of_posts']]
@@ -115,6 +116,7 @@ def contacts():
                           body=message + '\n' + phone
 
                           )
+        flash("Thanks for Submitting your form. We'll reach upto you ASAP.","success")
     return render_template('contact.html', params=params)
 
 
