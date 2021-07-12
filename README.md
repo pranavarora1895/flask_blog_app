@@ -5,6 +5,8 @@
 * Jinja Templating
 * Flask SQLAlchemy
 * Flask Mail
+* Admin Authentication
+* Session Variable
 * Admin Dashboard
 * CRUD Operations
 * Slug Field Usage
