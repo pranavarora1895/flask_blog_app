@@ -17,11 +17,7 @@
 
 Installing Dependencies:
 <br>
-* Open Terminal/CMD
-* Open Terminal or CMD, then Type ```pip install -r <path to the software requirements.txt>```
-
-**Example:** ```pip install -r c://Users/Downloads/CodeTalks/requirements.txt```
-
+* Open Terminal or CMD, then Type ```pip install flask Flask-SQLAlchemy Flask-Mail```
 * If you are not using any VPS, download XAMPP and start Apache and MySql Service.
 * In PhpMyAdmin create a Database name CodeTalks and Import ```codetalks.sql``` from downloaded file
 ---
