@@ -1,4 +1,4 @@
-# Blogging Application Using Flask  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+# Blogging Application Using Flask  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 > ### Under this project, some of the following integrations are showcased:
 
